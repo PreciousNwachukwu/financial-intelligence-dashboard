@@ -167,7 +167,7 @@ Designed for **founder-friendly consulting insights**.
 Skincare Studio incurs higher operating costs ($212K vs $164K), compressing margins.
 
 **Long Report:**  
-[Download PDF](./Financial_Intelligence_Dashboard_Case_Study.pdf)
+[Download Full Case Study (PDF)](./Financial_Intelligence_Dashboard_Case_Study.pdf?raw=true)
 
 ---
 
